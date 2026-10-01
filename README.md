@@ -50,5 +50,5 @@ This project was completed as part of the Computer Architecture course at **Shar
 └── README.md                    # Project documentation
 ```
 
-📄 Full Report
+## Full Report
 For complete methodological details, hardware event breakdowns, and detailed timeline figures, please refer to the compiled PDF reports in either the report/English/ or report/Persian/ directory.
